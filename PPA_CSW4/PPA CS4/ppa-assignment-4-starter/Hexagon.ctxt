@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Hexagon
+comment0.text=\n\ Hexagon\ class\ is\ responsible\ for\ hexagon\ creation\n\n\ @author\ Charlie\ Madigan\ (19019003),\ Justinas\ Kiskis\ (K1889820)\n
+comment1.params=x\ y
+comment1.target=Hexagon(double,\ double)
+comment2.params=value
+comment2.target=void\ setOff(java.lang.Boolean)
+comment2.text=\n\ Sets\ the\ Hexagon\ to\ desired\ boolean\ value\ (either\ true\ or\ valse).\n
+comment3.params=
+comment3.target=java.lang.Boolean\ isOff()
+comment3.text=\n\ Returns\ current\ state\ of\ hexagon\ (whether\ it's\ turned\ off\ or\ not).\n
+numComments=4

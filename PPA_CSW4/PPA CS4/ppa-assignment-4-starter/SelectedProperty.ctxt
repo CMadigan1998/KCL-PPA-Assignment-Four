@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SelectedProperty
+comment0.text=\n\ Class\ SelectedProperty\ is\ responsible\ for\ creating\ a\ window\ for\ a\ selected\ property.\n\n\ @author\ Charlie\ Madigan\ (19019003),\ Justinas\ Kiskis\ (K1889820),\ Carlos\ Navarro\ (K19016418)\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \n\ It\ is\ called\ after\ the\ init()\ method\ has\ returned\ and\ after\ \n\ the\ system\ is\ ready\ for\ the\ application\ to\ begin\ running.\n\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\n
+comment2.params=selectedProperty
+comment2.target=void\ selectProperty(AirbnbListing)
+comment2.text=\n\ Returns\ room\ type\ of\ selected\ property\n
+comment3.params=
+comment3.target=javafx.scene.layout.VBox\ getPropertyInfo()
+comment3.text=\n\ \ Shows\ information\ about\ selected\ property.\n
+comment4.params=event
+comment4.target=void\ showPropertyOnMap(javafx.event.ActionEvent)
+comment4.text=\n\ Is\ called\ when\ "Select\ property"\ button\ is\ clicked.\n
+comment5.params=
+comment5.target=void\ getshowPropertyOnMap()
+comment5.text=\n\ \ The\ system's\ default\ browser\ is\ opened\ and\n\ \ the\ location\ of\ selected\ property\ is\ shown\n\ \ on\ the\ Google\ maps\ page.\n
+numComments=6

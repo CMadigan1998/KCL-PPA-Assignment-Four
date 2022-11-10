@@ -1,0 +1,7 @@
+Welcome to the Property View Application!
+The purpose of this project is to provide you a list of properties available in the city of London based on your available price range.
+In order to proceed, you must first select your price range from the top left of the screen from the drop down menus and then click apply.
+Your selected price range will appear on the screen under this information and the next button will be activated allowing you to proceed to the map screen. 
+From this screen, a break down of all the boroughs available in London. Boroughs with no available properties based on your search will be greyed out. Boroughs with less than one thousand available properties will appear in red.
+Boroughs with less than ten thousand available properties will be shown in amber and boroughs above this will be shown in green.
+Once a borough has been selected, a drop down menu will be shown with a list of available properties for rent. Selecting one of these properties will bring you to a window displaying information about the property.

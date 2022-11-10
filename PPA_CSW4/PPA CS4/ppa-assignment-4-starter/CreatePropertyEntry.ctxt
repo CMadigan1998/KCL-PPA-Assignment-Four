@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CreatePropertyEntry
+comment0.text=\n\ CreatePropertyEntry\ class\ is\ responsible\ for\ listing\ a\ new\ property\n\n\ @author\ Charlie\ Madigan\ (19019003),\ Justinas\ Kiskis\ (K1889820),\ Carlos\ Navarro\ (K19016418)\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=loginAccount
+comment2.target=void\ createWindow(AccountEntry)
+comment2.text=\n\ \ Creates\ a\ window\ for\ a\ property\ entry.\n
+comment3.params=Event
+comment3.target=void\ createEntry(javafx.event.ActionEvent)
+comment3.text=\n\ \ Creates\ a\ listing\ and\ stores\ it\ in\ a\ file.\n
+comment4.params=Event
+comment4.target=void\ logout(javafx.event.ActionEvent)
+comment4.text=\n\ \ Logouts\ after\ logout\ button\ is\ pressed\n
+numComments=5
