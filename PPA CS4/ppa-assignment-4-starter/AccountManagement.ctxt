@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AccountManagement
+comment0.text=\n\ Class\ AccountManagement\ is\ responsible\ for\ account\ management\ (for\ panel\ 4).\n\n\ @author\ Charlie\ Madigan\ (19019003),\ Justinas\ Kiskis\ (K1889820),\ Carlos\ Navarro\ (K19016418)\n
+comment1.params=fileName
+comment1.target=void\ checkForLoginDatabase(java.lang.String)
+comment1.text=\n\ \ Checks\ whether\ there\ is\ a\ database\ fo\ user\ login\ details\ or\ not.\n\ \ If\ there\ is\ no\ database,\ new\ database\ is\ created\ to\ store\ \n\ \ user\ login\ details.\n
+comment2.params=fileName\ data\ newDataBase
+comment2.target=void\ writeLoginDatabase(java.lang.String,\ java.util.ArrayList,\ java.lang.Boolean)
+comment2.text=\n\ \ Creates\ a\ new\ user\ and\ stores\ it\ in\ a\ database.\n
+comment3.params=fileName
+comment3.target=void\ countInitialEntries(java.lang.String)
+comment3.text=\n\ Counts\ initial\ entries,\ number\ of\ IDs.\n
+comment4.params=fileName
+comment4.target=void\ loadUsers(java.lang.String)
+comment4.text=\n\ Loads\ users'\ details\ that\ are\ stored\ in\ a\ file.\n
+comment5.params=username\ password
+comment5.target=java.lang.Boolean\ checkAccountDetails(java.lang.String,\ java.lang.String)
+comment5.text=\n\ \ Check\ whether\ given\ username\ and\ password\ match\ any\ \n\ \ details\ stored\ in\ a\ file.\n
+comment6.params=
+comment6.target=AccountEntry\ getLoginAccount()
+comment6.text=\n\ \ Returns\ a\ login\ account.\n
+numComments=7

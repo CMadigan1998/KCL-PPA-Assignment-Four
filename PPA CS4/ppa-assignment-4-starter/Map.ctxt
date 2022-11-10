@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=
+comment1.target=Map()
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ createMap()
+comment4.params=name\ x\ y
+comment4.target=void\ setHexagon(java.lang.String,\ int,\ int)
+comment5.params=
+comment5.target=javafx.scene.layout.FlowPane\ getMap()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FileIO
+comment0.text=\n\ Class\ FileIO\ is\ dealing\ with\ files\n\n\ @author\ Charlie\ Madigan\ (19019003),\ Justinas\ Kiskis\ (K1889820)\n
+comment1.params=filePath
+comment1.target=void\ getFile(java.lang.String)
+comment1.text=\n\ Takes\ file\ from\ which\ information\ is\ scanned.\n
+comment2.params=
+comment2.target=java.lang.String\ readData()
+comment2.text=\n\ Reads\ line\ from\ file.\n
+numComments=3

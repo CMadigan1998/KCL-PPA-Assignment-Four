@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SelectedBorough
+comment0.text=\n\ Class\ SelectedBorough\ is\ responsible\ for\ a\ window\ which\ is\ created\ \n\ for\ a\ specific\ borough.\n\n\ @author\ Charlie\ Madigan\ (19019003),\ Justinas\ Kiskis\ (K1889820),\ Carlos\ Navarro\ (K19016418)\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \n\ It\ is\ called\ after\ the\ init()\ method\ has\ returned\ and\ after\ \n\ the\ system\ is\ ready\ for\ the\ application\ to\ begin\ running.\n\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\n
+comment2.params=sortedList
+comment2.target=void\ createListing(java.util.ArrayList)
+comment2.text=\n\ Creates\ a\ list\ of\ sorted\ properties\ within\ selected\ price\ range\ and\ borough\n
+comment3.params=event
+comment3.target=void\ applySort(javafx.event.ActionEvent)
+comment3.text=\n\ Sorting\ is\ applied\ to\ the\ shown\ list.\n
+comment4.params=propertyListings
+comment4.target=javafx.collections.ObservableList\ generateComboListing(java.util.ArrayList)
+comment4.text=\n\ Creates\ a\ combo\ list\ in\ which\ information\ about\ Airbnb\ \n\ listings\ in\ a\ specific\ borough\ is\ shown.\n
+comment5.params=event
+comment5.target=void\ selectProperty(javafx.event.ActionEvent)
+comment5.text=\n\ Creates\ a\ new\ window\ for\ a\ selected\ property\n
+numComments=6

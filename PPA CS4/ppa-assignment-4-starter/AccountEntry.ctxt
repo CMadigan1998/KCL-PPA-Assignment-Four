@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AccountEntry
+comment0.text=\n\ Manages\ the\ accounts,\ stores\ register\ user\n\n\ @author\ Charlie\ Madigan\ (19019003),\ Justinas\ Kiskis\ (K1889820),\ Carlos\ Navarro\ (K19016418)\n
+comment1.params=ID\ firstName\ surname\ userName\ password
+comment1.target=AccountEntry(java.lang.Integer,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Creates\ a\ user\ with\ ID,\ name,\ surname,\ userName\ and\ password\n
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment2.text=\n\ Returns\ user's\ name.\n
+comment3.params=
+comment3.target=java.lang.String\ getSurname()
+comment3.text=\n\ Returns\ user's\ surname.\n
+comment4.params=
+comment4.target=java.lang.String\ getUserName()
+comment4.text=\n\ Returns\ user's\ name.\n
+comment5.params=
+comment5.target=java.lang.String\ getPassword()
+comment5.text=\n\ Returns\ user's\ password.\n
+comment6.params=
+comment6.target=java.lang.Integer\ getUserID()
+comment6.text=\n\ Returns\ user's\ ID.\n
+numComments=7
